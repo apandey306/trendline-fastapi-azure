@@ -3,3 +3,8 @@ uvicorn
 gunicorn
 jinja2
 python-multipart
+numpy
+pandas
+scipy
+pydantic
+openpyxl
